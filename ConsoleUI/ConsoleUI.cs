@@ -18,8 +18,8 @@ namespace ConsoleUI
             } while (!Double.TryParse(Console.ReadLine(), out power));
             do
             {
-                Console.WriteLine("Enter an accuracy:");
-            } while (!Double.TryParse(Console.ReadLine(), out accuracy));
+                Console.WriteLine("Enter an accuracy (should be > 0):");
+            } while (!Double.TryParse(Console.ReadLine(), out accuracy) || accuracy <= 0);
             Console.WriteLine("Newton Method: " + NewtonMethodClass.GetRootByNewtonMethod(power, number, accuracy));
             if (power != 0)
                 power = 1 / power;
