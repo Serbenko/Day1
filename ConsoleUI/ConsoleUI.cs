@@ -7,7 +7,8 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            double number, power, accuracy;
+            double number, accuracy;
+            int power;
             do
             {
                 Console.WriteLine("Enter a number:");
@@ -15,7 +16,7 @@ namespace ConsoleUI
             do
             {
                 Console.WriteLine("Enter a power:");
-            } while (!Double.TryParse(Console.ReadLine(), out power));
+            } while (!Int32.TryParse(Console.ReadLine(), out power));
             do
             {
                 Console.WriteLine("Enter an accuracy (should be > 0):");
