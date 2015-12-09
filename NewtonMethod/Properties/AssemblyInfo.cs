@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ConsoleUI")]
+[assembly: AssemblyTitle("NewtonMethod")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleUI")]
+[assembly: AssemblyProduct("NewtonMethod")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-<<<<<<< HEAD
-[assembly: Guid("779512be-86da-42fe-a2ad-631b83a653dd")]
-=======
-[assembly: Guid("57bdde61-243a-4787-bf33-a95dafe39560")]
->>>>>>> c7df9bdc3b01f9a0fabbfd3ad29e464bfcb823da
+[assembly: Guid("be779775-c3d0-477f-8c99-a7b24ccfc707")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
