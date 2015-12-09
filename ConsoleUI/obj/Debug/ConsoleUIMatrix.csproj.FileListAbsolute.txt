@@ -1,0 +1,16 @@
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\bin\Debug\MatrixSort.dll
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\bin\Debug\MatrixSort.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\obj\Debug\ConsoleUIMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\bin\Debug\ConsoleUIMatrix.exe.config
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\bin\Debug\ConsoleUIMatrix.exe
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\bin\Debug\ConsoleUIMatrix.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\obj\Debug\ConsoleUIMatrix.exe
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUIMatrix\obj\Debug\ConsoleUIMatrix.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\bin\Debug\MatrixSort.dll
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\bin\Debug\MatrixSort.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\obj\Debug\ConsoleUIMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\obj\Debug\ConsoleUIMatrix.exe
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\obj\Debug\ConsoleUIMatrix.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\bin\Debug\ConsoleUIMatrix.exe.config
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\bin\Debug\ConsoleUIMatrix.exe
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\ConsoleUI\bin\Debug\ConsoleUIMatrix.pdb

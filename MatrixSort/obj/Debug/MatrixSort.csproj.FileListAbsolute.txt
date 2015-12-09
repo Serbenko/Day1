@@ -1,0 +1,4 @@
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\MatrixSort\bin\Debug\MatrixSort.dll
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\MatrixSort\bin\Debug\MatrixSort.pdb
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\MatrixSort\obj\Debug\MatrixSort.dll
+C:\Users\Maryia_Serbenka@epam.com\Git\Task1.2\MatrixSort\obj\Debug\MatrixSort.pdb
