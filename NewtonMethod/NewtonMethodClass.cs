@@ -30,13 +30,7 @@ namespace NewtonMethod
                 if (Math.Abs(x - nx) < accuracy) break;
                 x = nx;
             }
-            int round = 0;
-            while (accuracy < 1)
-            {
-                accuracy *= 10;
-                round++;
-            }
-            return Math.Round(x, round);
+            return x;
         }
     }
 }
